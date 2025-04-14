@@ -18,9 +18,9 @@
 
 🔹 **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS  
 🔹 **Backend:** Node.js, Express.js  
-🔹 **Database:** MongoDB  
+🔹 **Database:** MongoDB, SQL
 🔹 **Version Control:** Git, GitHub  
-🔹 **Tools & Platforms:** VS Code, Postman, Netlify, Heroku  
+🔹 **Tools & Platforms:** VS Code, Netlify, Vercel  
 
 ---
 
