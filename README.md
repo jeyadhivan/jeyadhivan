@@ -16,7 +16,7 @@
 
 ## 💻 Tech Stack
 
-🔹 **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS  
+🔹 **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, vite.js
 🔹 **Backend:** Node.js, Express.js  
 🔹 **Database:** MongoDB, SQL
 🔹 **Version Control:** Git, GitHub  
