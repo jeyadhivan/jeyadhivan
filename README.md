@@ -26,17 +26,17 @@
 
 ## 📌 Projects
 
-### 🔹 [Movie Database App 🎬](https://github.com/your-repo)
+### 🔹 [Movie Database App 🎬](https://moviedatabaseenhancement.vercel.app/)
 - Displays popular, top-rated, and upcoming movies with **pagination**.
 - Uses an **API** to fetch real-time movie data.
 - Clean **CSS styling** for a great user experience.
 
-### 🔹 [Restaurant App 🍔](https://github.com/your-repo)
+### 🔹 [Restaurant App 🍔](https://gjfoodresapp.ccbp.tech/login)
 - Features **Login authentication, Cart management, and Navigation**.
 - Built with **React Context** for state management.
 - Users can **add/remove items**, adjust quantity, and proceed to checkout.
 
-### 🔹 [E-commerce Platform 🛍️](https://github.com/your-repo)
+### 🔹 [E-commerce Platform 🛍️](https://jeyanxttrendz.ccbp.tech/login)
 - Developed a fully functional **e-commerce site using React.js**.
 - Integrated **dynamic product listing, cart system, and responsive UI**.
 
@@ -44,9 +44,9 @@
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Email: your-email@example.com
-- 🏡 [Portfolio](https://your-portfolio.com) *(Coming Soon!)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeyalakshmigowthaman/)
+- 📧 Email: jeyadhivan1995@gmail.com
+- 🏡 [Portfolio](https://portfolio-55hy.vercel.app/)
 
 Let's build something amazing together! 🚀
 
